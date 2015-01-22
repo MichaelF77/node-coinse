@@ -1,0 +1,40 @@
+{
+  "name": "coinse",
+  "description": "coinse.com API client for node.js",
+  "homepage": "https://github.com/michaelf77/node-coinse",
+  "keywords": [
+    "coinse",
+    "btc",
+    "ltc",
+    "bitcoin",
+    "litecoin"
+  ],
+  "author": {
+    "name": "Michael Feinstein"
+  },
+  "licenses": [
+    {
+      "type": "ISC",
+      "url": "https://github.com/michaelf77/node-coinse/blob/master/LICENSE.txt"
+    }
+  ],
+  "dependencies": {
+    "request": "2.49.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelf77/node-coinse"
+  },
+  "main": "coinse.js",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "version": "1.0.5",
+  "readme": "node-coinse\n=====\n\nAn unofficial node.js client for the [coinse trade api](https://www.coins-e.com/support/api/) ## License\n\nThis module is [ISC licensed](https://github.com/michaelf77/node-coinse/blob/master/LICENSE.txt).\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/michaelf77/node-coinse/issues"
+  },
+  "_id": "coinse@1.0.5",
+  "_from": "coinse@"
+}
