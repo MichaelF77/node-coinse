@@ -127,7 +127,7 @@ Coinse.prototype.trade = function(pair, type, rate, quantity, callback) {
   this.makeRequest('neworder', 'market', pair, {
     'order_type': type,
     'rate': rate,
-    'quantity': amount
+    'quantity': quantity
   }, callback);
 };
 
